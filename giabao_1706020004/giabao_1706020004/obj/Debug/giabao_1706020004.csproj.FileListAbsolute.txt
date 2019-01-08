@@ -1,0 +1,7 @@
+D:\C#\giabao_1706020004\giabao_1706020004\obj\Debug\giabao_1706020004.csprojResolveAssemblyReference.cache
+D:\C#\giabao_1706020004\giabao_1706020004\obj\Debug\giabao_1706020004.MainForm.resources
+D:\C#\giabao_1706020004\giabao_1706020004\obj\Debug\giabao_1706020004.csproj.GenerateResource.Cache
+D:\C#\giabao_1706020004\giabao_1706020004\bin\Debug\giabao_1706020004.exe
+D:\C#\giabao_1706020004\giabao_1706020004\bin\Debug\giabao_1706020004.pdb
+D:\C#\giabao_1706020004\giabao_1706020004\obj\Debug\giabao_1706020004.exe
+D:\C#\giabao_1706020004\giabao_1706020004\obj\Debug\giabao_1706020004.pdb
